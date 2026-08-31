@@ -1,7 +1,7 @@
 # Automated Raspberry Pi Time-Lapse & Remote Video Renderer
-```text
+
 An automated Bash pipeline for Raspberry Pi that captures time-lapse photographs at scheduled intervals organized by date (YYYY-MM-DD/HH/) and compiles an .mp4 video using FFmpeg. It supports local compilation as well as remote rendering via SSH to offload heavy processing to a more powerful server/NAS, followed by an optional final storage deployment phase.
-```
+
 ## Installation
 ```bash
 git clone https://github.com/rbustos567/webpage-to-eink.git
